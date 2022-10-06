@@ -1,0 +1,4 @@
+1 - Configurar as classes com export (export class Cliente)
+2 - Fazer o import (import {classe} from "caminho")
+3 - Gerar o package.json dentro do projeto (npm init)
+4 - Configurar o package.json (colocar abaixo de license,  "type": "module")
